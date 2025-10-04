@@ -1,0 +1,9 @@
+com/manager/util/LibvirtHelper.class
+com/manager/service/impl/VMServiceImpl.class
+com/manager/repository/VPCRepository.class
+com/manager/domain/VM.class
+com/manager/domain/VPC.class
+com/manager/BackendApplication.class
+com/manager/repository/VMRepository.class
+com/manager/controller/VMController.class
+com/manager/service/VMService.class
