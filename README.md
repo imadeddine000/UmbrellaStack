@@ -16,7 +16,7 @@ npm run dev
 ### Backend Setup
 ```bash
 cd backend
-./mvnw spring-boot:run
+mvn clean spring-boot:run
 ```
 
 ## 📁 Project Structure
